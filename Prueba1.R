@@ -1,6 +1,7 @@
 
 x <- c(1:5)
 y <- c(1:5)
+z = 1:20
 
 df1 <- data.frame("Row One"=x, "Row Two"=y)
 df2 <- data.frame("Row Two"=y,"Row One"=x)
